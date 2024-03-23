@@ -1,4 +1,5 @@
 # SCOMM - 串口网络通信调试助手
+<img src="https://github.com/orbit666/-Microcontroller/assets/63085968/209c95cf-b59d-4271-b6cc-2eee242a9e29" width="500" height="800">
 
 
  SCOMM 是一个用于 Windows 平台的串口/网络通信调试工具软件。它广泛应用于工控领域的数据监控、数据采集和数据分析等工作。SCOMM 旨在帮助通信研发和测试人员检查目标终端软硬件的数据收发状况，提高开发速度，简化开发复杂度，是通信开发调试的得力助手。
