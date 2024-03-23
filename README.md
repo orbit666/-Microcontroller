@@ -25,9 +25,9 @@
  USB转串口安卓免驱安装程序、库和例程，支持CH340/CH341/CH342/CH343/CH344/CH347/CH9101/CH9102/CH9103/CH9104/CH9143的，用于Android操作系统4.4及以上版本的USB Host模式，无需加载Android内核驱动，无需root权限操作。包含apk安装程序，lib库文件（Java Driver），App Demo例程(USB转UART Demo工程SDK)。
  
 > 适用范围：CH340、CH341、CH342、CH343、CH344、CH347、CH9101、CH9102、CH9103、CH9104、CH9143
-版本：1.7
-上传时间：2022-11-10
-资料大小：6.17MB
+ 版本：1.7
+ 上传时间：2022-11-10
+ 资料大小：6.17MB
 
 
 
